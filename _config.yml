@@ -19,7 +19,7 @@ title: AkaniX3 # the main title
 tagline: simply can\'t heck anything # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  It my page! read about stuff I do here !!
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,7 +42,7 @@ social:
     - https://github.com/AkaniX3 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/parth-rajkondawar
 
 # Site Verification Settings
 webmaster_verifications:
